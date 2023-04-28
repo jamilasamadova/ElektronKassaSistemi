@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KassaSystem", "KassaSystem\KassaSystem.csproj", "{A18A4079-9262-4A79-8A8E-04EBBA55123C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DE88B4C2-7C1B-4FFD-8FBC-6B889CFFDCD6}"
+	ProjectSection(SolutionItems) = preProject
+		ElektronKassaSistemi.sln = ElektronKassaSistemi.sln
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A18A4079-9262-4A79-8A8E-04EBBA55123C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18A4079-9262-4A79-8A8E-04EBBA55123C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18A4079-9262-4A79-8A8E-04EBBA55123C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18A4079-9262-4A79-8A8E-04EBBA55123C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {735F05DE-C56F-48ED-8A20-E39B1CF8A49A}
+	EndGlobalSection
+EndGlobal

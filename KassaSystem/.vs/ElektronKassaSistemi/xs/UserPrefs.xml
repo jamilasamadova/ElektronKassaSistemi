@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{A18A4079-9262-4A79-8A8E-04EBBA55123C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="KassaSystem/Models/Management.cs">
+    <Files>
+      <File FileName="KassaSystem/Program.cs" Line="173" Column="25" />
+      <File FileName="KassaSystem/Account.cs" Line="32" Column="2" />
+      <File FileName="KassaSystem/Management.cs" Line="64" Column="108" />
+      <File FileName="KassaSystem/ElectronCashierSystem.cs" Line="15" Column="50" />
+      <File FileName="KassaSystem/Models/AccountHistory.cs" Line="31" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.KassaSystem PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/samadovaulviyya/Desktop/E-kassa/KassaSystem/KassaSystem/bin/Debug/net7.0/ElektronKassaSistemi
+/Users/samadovaulviyya/Desktop/E-kassa/KassaSystem/KassaSystem/bin/Debug/net7.0/ElektronKassaSistemi.deps.json
+/Users/samadovaulviyya/Desktop/E-kassa/KassaSystem/KassaSystem/bin/Debug/net7.0/ElektronKassaSistemi.runtimeconfig.json
+/Users/samadovaulviyya/Desktop/E-kassa/KassaSystem/KassaSystem/bin/Debug/net7.0/ElektronKassaSistemi.dll
+/Users/samadovaulviyya/Desktop/E-kassa/KassaSystem/KassaSystem/bin/Debug/net7.0/ElektronKassaSistemi.pdb
+/Users/samadovaulviyya/Desktop/E-kassa/KassaSystem/KassaSystem/obj/Debug/net7.0/ElektronKassaSistemi.csproj.AssemblyReference.cache
+/Users/samadovaulviyya/Desktop/E-kassa/KassaSystem/KassaSystem/obj/Debug/net7.0/ElektronKassaSistemi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samadovaulviyya/Desktop/E-kassa/KassaSystem/KassaSystem/obj/Debug/net7.0/ElektronKassaSistemi.AssemblyInfoInputs.cache
+/Users/samadovaulviyya/Desktop/E-kassa/KassaSystem/KassaSystem/obj/Debug/net7.0/ElektronKassaSistemi.AssemblyInfo.cs
+/Users/samadovaulviyya/Desktop/E-kassa/KassaSystem/KassaSystem/obj/Debug/net7.0/ElektronKassaSistemi.csproj.CoreCompileInputs.cache
+/Users/samadovaulviyya/Desktop/E-kassa/KassaSystem/KassaSystem/obj/Debug/net7.0/ElektronKassaSistemi.dll
+/Users/samadovaulviyya/Desktop/E-kassa/KassaSystem/KassaSystem/obj/Debug/net7.0/refint/ElektronKassaSistemi.dll
+/Users/samadovaulviyya/Desktop/E-kassa/KassaSystem/KassaSystem/obj/Debug/net7.0/ElektronKassaSistemi.pdb
+/Users/samadovaulviyya/Desktop/E-kassa/KassaSystem/KassaSystem/obj/Debug/net7.0/ElektronKassaSistemi.genruntimeconfig.cache
+/Users/samadovaulviyya/Desktop/E-kassa/KassaSystem/KassaSystem/obj/Debug/net7.0/ref/ElektronKassaSistemi.dll
